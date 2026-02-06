@@ -1,4 +1,5 @@
 # 🚀 Rust Performance Enhancer
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/24d4d97b-34f4-4969-a451-b9cc8d7b1684" />
 
 ## 📊 Overview
 A sophisticated optimization utility designed to maximize frame rates and smoothness in Rust. This tool applies intelligent system optimizations to deliver the best possible gaming experience while maintaining full game integrity.
